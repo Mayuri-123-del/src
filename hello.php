@@ -6,7 +6,10 @@
     <title>PHP Test</title>
 </head>
 <body>
+<!--this is printing-->
+
 <?php
+//this is printing hello world
 echo "<h1>hello world<h1>";
 
 ?>
