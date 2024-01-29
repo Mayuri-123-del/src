@@ -1,3 +1,8 @@
+<?php 
+$title ="Exercise01"; 
+include 'header.php'; ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -59,4 +64,6 @@ $g3 = 5;
 <img src="images/exercise1.png"> alt="web development environment">
 
 </body>
+
+<?php include 'footer.php'?>
 </html>

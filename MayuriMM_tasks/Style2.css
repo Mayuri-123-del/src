@@ -1,0 +1,14 @@
+body{
+    background-image:url(images/background-image.jpg);
+    width:1400px;
+    margin:16px auto;
+}
+
+.img{
+    width: 500px;
+    height: 300px;
+}
+
+nav a,nav a:visited, nav a:active {
+    color:blue;
+}
