@@ -1,5 +1,5 @@
 <?php 
-$title ="Exercise02"; 
+$title ="Exercise02-Create universal header, footer and sidebar "; 
 include 'header.php'; ?>
 <link rel="stylesheet" href="Style2.css">
 

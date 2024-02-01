@@ -1,5 +1,5 @@
 <?php 
-$title ="Exercise03"; 
+$title ="Exercise03-Variable, Strings & Operators"; 
 include 'header.php'; ?>
 
 <body>
