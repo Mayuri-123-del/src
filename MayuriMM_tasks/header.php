@@ -13,6 +13,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-5">
+                <h1>Web Programming</h1>
                 <h3>Mayuri Yashodha</h3> 
              </div>
              <div class="col-sm-7">
@@ -27,7 +28,8 @@
 
                   <a class="nav-link" href="ex1.php">Exercise01</a>
                   <a class="nav-link" href="ex2.php">Exercise02</a>
-                  <a class="nav-link" href="#">Contact</a>
+                  <a class="nav-link" href="ex3.php">Exercise03</a>
+                  <a class="nav-link" href="ex4.php">Exercise04</a>
                   
                 </div>
               </div>
