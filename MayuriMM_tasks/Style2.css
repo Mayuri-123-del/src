@@ -4,10 +4,10 @@ body{
     margin:16px auto;
 }
 
-.img{
-    width: 500px;
-    height: 300px;
+h4 {
+    color: brown;
 }
+
 
 nav a,nav a:visited, nav a:active {
     color:blue;
