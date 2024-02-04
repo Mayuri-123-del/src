@@ -8,7 +8,7 @@ $fname=$_POST["fname"];
 $lname=$_POST["lname"];
 
 
-echo  "Hello "  . $fname  .  $lname   , " you are welcome to my site";
+echo  "Hello "  . $fname ." ".  $lname . " you are welcome to my site";
 
 include 'footer.php';
 ?>
