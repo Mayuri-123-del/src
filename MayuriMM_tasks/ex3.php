@@ -2,13 +2,12 @@
 $title ="Exercise03-Variable, Strings & Operators"; 
 include 'header.php'; ?>
 
-<body>
-    <div class="container">
- <h4> <b> Exercise 03</h4>   
-            
-    </div>
-</body>
-
+<h3>3.2.Form Creation: Create a simple HTML form to collect the user’s Firstname and Lastname. Use the echo statement to print “Hello [Firstname] [Lastname], You are welcome to my site.”</h3>
+<form method="post" action="process.php">
+    Firstname:<input type="text" name="fname" required><br><br>
+    Lastname:<input type="text" name="lname" required><br><br>
+    <input type="submit" value="submit">
+</form>
 
 
 
